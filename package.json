@@ -1,0 +1,19 @@
+{
+  "name": "test_npm",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Roman17/how-to-npm.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Rom",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
