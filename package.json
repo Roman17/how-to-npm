@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Roman17/how-to-npm.git"
+    "url": "https://github.com/Roman17/how-to-npm"
   },
   "scripts": {
     "test": "node test.js"
